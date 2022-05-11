@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @adam-linden [Product Designer – Seller Growth]
+- 👀 Participate in discussions w eng fam ...
+- 🌱 Building up my dev skills again ...
+- 📫 How to reach me Slack: @adamlinden ...
+
+<!---
+adam-linden/adam-linden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
